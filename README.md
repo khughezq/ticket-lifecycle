@@ -42,12 +42,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-2. Our open ticket from Karen can now be observed on Help Desk Agent's John work page. John can now set properties to the ticket updating the SLA Plan to Sev-A (1 hour, 24/7), and assign the ticket to the online banking team. 
+2. Our open ticket from Karen can now be observed on Help Desk Agent's John work page. John can now set properties to the ticket updating the SLA Plan to Sev-A (1 hour, 24/7), and assign the ticket to the online banking team. Now you can resolve the issue(s).
 </p>
 <br />
 
 <p>
-![image](https://github.com/user-attachments/assets/93e6ad28-8bc5-4cc7-bd38-a778bd282315)
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/cd0c1e94-1ff1-4187-b807-0ae1cc7cea6f" />
 
 </p>
 <p>
