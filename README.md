@@ -36,8 +36,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-![image](https://github.com/user-attachments/assets/8b12c452-2193-4322-8b2e-912ca4e689d4)
-![image](https://github.com/user-attachments/assets/cad4cdff-cdaf-4dcc-a982-f3612e9ed93b)
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/5cbf3ca7-acba-4a43-872f-462e86080deb" />
+
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/4824f978-2c1a-4304-a435-e02aeeaad5ed" />
 
 </p>
 <p>
