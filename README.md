@@ -51,6 +51,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-3. Access to see previously closed tickets. 
+3. Access to view previously closed tickets. 
 </p>
 <br />
